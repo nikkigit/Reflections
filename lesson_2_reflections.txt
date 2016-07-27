@@ -3,3 +3,12 @@ It creates a git repository. We need this to track the changes that are made to 
 
 2.How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area helps to group the files logically to commit.
+
+3.How can you use the staging area to make sure you have one commit per logical change?
+To see if you are trying to commit correct changes that you intended in a file.
+
+4.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- To add a new functionlaity which is still under test
+- To add a new language based version of code e.t.c.
+
+Branches help to work on a test branch that you would work at a point of time and at the same time you can revert back to your working branch to chekout to move/show the code in production.
