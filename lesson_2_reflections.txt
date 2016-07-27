@@ -12,3 +12,9 @@ To see if you are trying to commit correct changes that you intended in a file.
 - To add a new language based version of code e.t.c.
 
 Branches help to work on a test branch that you would work at a point of time and at the same time you can revert back to your working branch to chekout to move/show the code in production.
+
+5. How do the diagrams help you visualize the branch structure?
+It makes it easy to figure out current branch or commit we are in and the overall structure of the branches 
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+it helps to pull all the commits that are related to merge commit.To have easy understanding of how branches are laid out.
