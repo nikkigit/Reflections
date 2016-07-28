@@ -2,4 +2,4 @@
 When i am ready with a final product/part of a working product i will push it to remote repository. 
 
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-It gives us control on what/when to pull the comments.
+It gives us control on what/when to pull the comments.This is good.
