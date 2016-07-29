@@ -18,3 +18,8 @@ It makes it easy to figure out current branch or commit we are in and the overal
 
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 it helps to pull all the commits that are related to merge commit.To have easy understanding of how branches are laid out.
+
+7.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+if merges automatically we might get unexpected results some time. At the same time if it is done automatically without effecting any code logic it should be fine.
+Time saving - pros
+Code loss - Cons
